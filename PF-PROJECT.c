@@ -3,14 +3,14 @@
 
 #define SIZE 100
 
-// Declare global arrays to store student data
+
 int rollNo[SIZE];
 char name[SIZE][50];
 float marks[SIZE];
 char grade[SIZE];
 int count = 0;
 
-// Function to Add a New Student
+
 void addStudent() {
     printf("\nEnter Roll Number: ");
     scanf("%d", &rollNo[count]);
@@ -25,7 +25,7 @@ void addStudent() {
     printf("Student added successfully!\n");
 }
 
-// Function to Display All Students
+
 void displayStudents() {
     printf("\n--- Student List ---\n");
     int i;
@@ -35,7 +35,7 @@ void displayStudents() {
     }
 }
 
-// Function to Update a Student
+
 void updateStudent() {
     int r, found = 0;
     printf("\nEnter Roll Number to Update: ");
@@ -59,7 +59,7 @@ void updateStudent() {
         printf("Student not found!\n");
 }
 
-// Function to Delete a Student
+
 void deleteStudent() {
     int r, found = 0;
     printf("\nEnter Roll Number to Delete: ");
@@ -85,7 +85,7 @@ void deleteStudent() {
         printf("Student not found!\n");
 }
 
-// Function to Search a Student
+
 void searchStudent() {
     int r, found = 0;
     printf("\nEnter Roll Number to Search: ");
@@ -106,7 +106,7 @@ void searchStudent() {
         printf("Student not found!\n");
 }
 
-// Function to Show Academic Progress (all marks and grades)
+
 void showProgress() {
     printf("\n--- Academic Progress ---\n");
     int i;
@@ -115,7 +115,7 @@ void showProgress() {
     }
 }
 
-// Main Program with Menu
+
 int main() {
     int choice;
 
