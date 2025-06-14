@@ -1,18 +1,24 @@
- 🎓 Student Management System in C
+# 🎓 Student Management System in C
 
 A simple Student Management System in C that allows adding, updating, deleting, and searching student records using arrays.  
 It provides a menu-driven interface to manage student data including marks and grades during runtime.
 
- 📋 Features
+---
 
- ➕ Add Student Record  
- 📄 View All Students  
- ✏️ Update Existing Record  
- ❌ Delete a Student  
- 🔍 Search by Roll Number  
- 📊 Display Academic Progress (Marks & Grades)  
+## 📋 Features
 
- 🚀 Use the Interactive Menu
+- ➕ Add Student Record  
+- 📄 View All Students  
+- ✏️ Update Existing Record  
+- ❌ Delete a Student  
+- 🔍 Search by Roll Number  
+- 📊 Display Academic Progress (Marks & Grades)  
+
+---
+
+## 🚀 Use the Interactive Menu
+
+
  === Student Management System ===
 -Add Student
 -Display Students
