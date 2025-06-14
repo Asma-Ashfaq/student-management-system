@@ -19,14 +19,21 @@ It provides a menu-driven interface to manage student data including marks and g
 ## 🚀 Use the Interactive Menu
 
 
- === Student Management System ===
--Add Student
--Display Students
--Update Student
--Delete Student
--Search Student
--Show Academic Progress
--Exit
+=== Student Management System ===
+
+Add Student
+
+Display Students
+
+Update Student
+
+Delete Student
+
+Search Student
+
+Show Academic Progress
+
+Exit
 
 ---
 
@@ -39,6 +46,7 @@ It provides a menu-driven interface to manage student data including marks and g
 - 📊 Displays academic progress clearly (marks + grade)  
 - ⚙️ Fully written in C, no external libraries required  
 
+---
 
 ## 🧠 Learning Outcomes
 
@@ -56,5 +64,9 @@ It provides a menu-driven interface to manage student data including marks and g
 - **MAHNOOR HABIB** – BITF24M003  
 
 ---
+
+
+
+
 
 
