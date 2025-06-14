@@ -57,7 +57,7 @@ Exit
 
 ---
 
-## 👨‍💻 Development Team
+## 👨‍💻 Group Members
 
 - **ASMA** – BITF24M011  
 - **HIRA ISLAM** – BITF24M035  
