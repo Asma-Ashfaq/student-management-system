@@ -36,4 +36,10 @@ A simple Student Management System in C that allows adding, updating, deleting, 
 •	ASMA   -  BITF24M011
 •	HIRA ISLAM  -  BITF24M035
 •	MAHNOOR HABIB  -  BITF24M003
+👨‍💻 Development Team
+Name	Student ID	Role	Contribution
+Asma	BITF24M011	Lead Developer	Core logic, UI design, and implementation
+Hira Islam	BITF24M035	Contributor	Update/Delete/Search modules and testing support
+
+
 
